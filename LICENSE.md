@@ -1,4 +1,4 @@
-# 
+# custom Plugin for Aseprite for PC | Aseprite for Windows - non-destructive-editing and 3D-editing is the best Aseprite for PC | Aseprite for Windows plugin, featuring
 
 
 
